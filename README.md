@@ -1,5 +1,5 @@
 👋 Hi, I’m Alakesh.
-I'm currently working as a Software Engineer at GeekyAnts.
+I'm currently working as a Software Engineer at Tekion Corp.
 My skills include Python, Java, Front-End Web Development using React, Object-Oriented Programming, Databases (MySQL ans PostgreSQL), and a bit of Machine Learning.
 I enjoy solving problems using Data Structures and Algorithms as well.
 
