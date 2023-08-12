@@ -1,6 +1,7 @@
 👋 Hi, I’m Alakesh.
 I'm currently working as a Software Engineer at Tekion Corp.
-My skills include Python, Java, Front-End Web Development using React, Object-Oriented Programming, Databases (MySQL ans PostgreSQL), and a bit of Machine Learning.
+My skills include advanced Javascript, React, Webpack, node.js.
+I'm currently working as a Front End developer, but I don't mind working full-stack.
 I enjoy solving problems using Data Structures and Algorithms as well.
 
 
