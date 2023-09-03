@@ -1,5 +1,5 @@
 👋 Hi, I’m Alakesh.
-I'm currently working as a Software Engineer at Tekion Corp.
+I'm currently working as an SDE - 2 at Tekion Corp.
 My skills include advanced Javascript, React, Webpack, node.js.
 I'm currently working as a Front End developer, but I don't mind working full-stack.
 I enjoy solving problems using Data Structures and Algorithms as well.
